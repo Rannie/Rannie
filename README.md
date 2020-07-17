@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 - 💻 I also focus on React, Node and Flutter.
 - 🌱 I’m currently learning Swift, SwiftUI and some other interesting things!
 - 🐱 BTW: I have a very lovely cat!
-
-<img src="https://abtfun.oss-cn-beijing.aliyuncs.com/img/2020-01-01-WechatIMG7.jpeg" width=300 />
