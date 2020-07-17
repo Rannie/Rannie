@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Coders 👋
 
 <!--
 **Rannie/Rannie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m Rann, an iOS developer from China.
+- 💻 I also focus on React, Node and Flutter.
+- 🌱 I’m currently learning Swift, SwiftUI and some other interesting things!
+- 🐱 BTW: I have a very lovely cat!
+
+<img src="https://abtfun.oss-cn-beijing.aliyuncs.com/img/2020-01-01-WechatIMG7.jpeg" width=300 />
