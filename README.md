@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m Rann, an iOS developer from China.
 - 💻 I also focus on React, Node and Flutter.
 - 🌱 I’m currently learning Swift, SwiftUI and some other interesting things!
-- 🐱 BTW: I have a very lovely cat!
+- 🐱 BTW, I have a very lovely cat!
