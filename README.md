@@ -9,4 +9,5 @@
 - 🔭 I’m Rann, an iOS developer from China.
 - 💻 I also focus on React, Node and Flutter.
 - 🌱 I’m currently learning Swift, SwiftUI and some other interesting things!
+- ⚽ I like football and my favorite player is Hazard :>
 - 🐱 BTW, I have a very lovely cat!
