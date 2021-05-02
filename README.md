@@ -8,5 +8,3 @@
 
 - 🔭 An iOS developer.
 - 💻 Focus on Swift, React, Node and Flutter.
-- ⚽ Like football and my favorite player is Hazard :>
-- 🐱 BTW, I have a very lovely cat!
